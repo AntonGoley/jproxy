@@ -16,7 +16,7 @@
  *
  */
 
-package jmproxy;
+package jproxy;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -300,7 +300,7 @@ public class Proxy extends Thread {
 //                         children
 //                                .toArray(new TestElement[children.size()]),
 //                        result);
-                target.logRawdata(request, sampler, result);
+                this.target.logRawdata(request, sampler, result);
             }
             try {
                 clientSocket.close();

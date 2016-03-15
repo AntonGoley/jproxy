@@ -16,7 +16,7 @@
  * 
  */
 
-package jmproxy;
+package jproxy;
 
 import java.net.Socket;
 import java.security.Principal;

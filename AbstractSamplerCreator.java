@@ -16,7 +16,7 @@
  *
  */
 
-package jmproxy;
+package jproxy;
 
 import java.util.Collections;
 import java.util.HashSet;

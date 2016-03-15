@@ -16,7 +16,7 @@
  *
  */
 
-package jmproxy;
+package jproxy;
 
 import java.util.List;
 import java.util.Map;

@@ -16,7 +16,7 @@
  *
  */
 
-package jmproxy;
+package jproxy;
 
 import java.io.IOException;
 import java.lang.reflect.Modifier;
